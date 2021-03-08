@@ -18,6 +18,7 @@
   <p>
     Construir um App para fixação de conhecimentos de ReactJS e TypeScript.
   </p>
+  <img src="https://user-images.githubusercontent.com/43016458/110389753-bb642a00-8043-11eb-989d-d497aa4c4cf1.png" width="300">
 </div>
 
 </br>
