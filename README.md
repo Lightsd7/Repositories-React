@@ -71,8 +71,6 @@ ___
   <p>Pronto, seu projeto estará funcionando.</p>
 </div>
 
-</br>
-
 ___
 
 <div align="left">
