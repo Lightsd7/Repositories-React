@@ -33,15 +33,19 @@ ___
     </p>
     <p>
       ➡
+      <a href="https://pt-br.reactjs.org/"> ReactJS</a>
+    </p>
+    <p>
+      ➡
       <a href="https://www.typescriptlang.org"> Typescript</a>
     </p>
     <p>
       ➡
-      <a href="https://insomnia.rest"> Insominia</a>
+      <a href="https://babeljs.io/"> BabelJS</a>
     </p>
     <p>
       ➡
-      <a href="https://code.visualstudio.com"> VsCode</a>
+      <a href="https://webpack.js.org/"> Webpack</a>
     </p>
   </div>
 </div> 
@@ -64,7 +68,7 @@ ___
 
     yarn dev
   </p>
-  <p>Pronto, seu projeto está certinho para funcionar.</p>
+  <p>Pronto, seu projeto estará funcionando.</p>
 </div>
 
 </br>
