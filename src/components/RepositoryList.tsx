@@ -1,10 +1,18 @@
 import { RepositoryItem } from "./RepositoryItem";
 import "../styles/repositories.scss";
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 
+interface Repository {
+  name: string;
+  description: string;
+  html_url: string;
+  owner: {
+    avatar_url: string;
+  }
+}
 
 export function RepositoryList() {
-  const [repositories, setRapositories] = useState([]);
+  const [repositories, setRapositories] = useState<Repository[]>([]);
 
   useEffect(() => {
     fetch("https://api.github.com/orgs/abr3dev/repos")
