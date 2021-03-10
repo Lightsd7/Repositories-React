@@ -18,7 +18,12 @@
   <p>
     Construir um App para fixação de conhecimentos de ReactJS e TypeScript.
   </p>
-  <img src="https://user-images.githubusercontent.com/43016458/110389753-bb642a00-8043-11eb-989d-d497aa4c4cf1.png" width="300">
+  <img src="https://user-images.githubusercontent.com/43016458/110627254-7f82af00-8180-11eb-8e74-e689561904f2.png" width="300">
+  </br> 
+  <img src="https://user-images.githubusercontent.com/43016458/110627313-945f4280-8180-11eb-9bd8-dae8d055902b.png" width="300">
+  </br>
+  <img src="https://user-images.githubusercontent.com/43016458/110628394-b7d6bd00-8181-11eb-9591-b246e9d8b181.png" width="300">
+  <p><strong>Erro ao pesquisar repositório inválido</strong></p>
 </div>
 
 </br>
