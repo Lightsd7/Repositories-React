@@ -56,7 +56,7 @@ export function RepositoryList() {
           </button>
           { message
             ? <p>{ message }</p>
-            : null
+            : <p></p>
           }
         </div>
       </header>
@@ -65,7 +65,7 @@ export function RepositoryList() {
           ? repositories.map((repository) => {
             return <RepositoryItem key={repository.name} repository={repository} />;
           })
-          : repositories.length <= 0 ? null : <p>Organização não encontrada</p>
+          : repositories.length <= 0 ? <p></p> : <p>Organização não encontrada</p>
         }
       </ul>
     </section>
