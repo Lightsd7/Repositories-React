@@ -66,7 +66,7 @@ ___
   <p>➡ Ao instalar tudo necessário, abra uma pasta em seu editor de código e vá no cmd dele(no Vscode o nome é "terminal") ou abra o cmd da sua máquina, digite e execute: </p>
   <p> 
 
-    git clone https://github.com/Lightsd7/Repositories-React
+    git clone https://github.com/Lightsd7/Repositories-React.git
   </p>
   <p>➡ Para ver os comandos disponíveis e dependências instaladas, vá no arquivo package.json. Por fim, para iniciar o servidor, vá em seu editor de código e vá no cmd dele(no Vscode o nome é "terminal") ou abra o cmd da sua máquina, digite e execute: </p>
   <p>
