@@ -20,10 +20,16 @@ section.repository-list {
       text-align: center;
     }
   }
-
+  
+  header {
+    text-align: center;
+  }
+  
   ul {
     list-style: none;
     padding-top: 20px;
+    margin: 0 auto;
+    max-width: 980px;
 
     li {
       width: 100%;
@@ -77,6 +83,10 @@ section.repository-list {
 
     border-radius: 8px;
     border: 0;
+    
+    @media (max-width: 340px) {
+      padding: 12px 12px;
+    }
   }
 
   button {
